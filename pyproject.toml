@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goabase-tui"
+version = "1.0.0"
+description = "Terminal user interface for browsing Goa & Psytrance parties from Goabase"
+authors = [
+    { name = "postsonde" }
+]
+readme = "README.md"
+license = { text = "GPL-3.0-or-later" }
+requires-python = ">=3.10"
+dependencies = [
+    "textual",
+    "rich",
+]
+
+[project.scripts]
+goabase-tui = "goabase_tui:main"
+
+[tool.setuptools]
+py-modules = ["goabase_tui"]
+
