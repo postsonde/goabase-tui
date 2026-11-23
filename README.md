@@ -1,4 +1,4 @@
-# ॐ goabase-tui
+# 🌀 goabase-tui
 
 A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcoming Goa & Psytrance parties from the [Goabase](https://goabase.net) API — built with [Textual](https://textualize.io) and styled with the **Dracula** theme.
 
