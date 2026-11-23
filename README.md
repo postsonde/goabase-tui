@@ -2,7 +2,9 @@
 
 A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcoming Goa & Psytrance parties from the [Goabase](https://goabase.net) API — built with [Textual](https://textualize.io) and styled with the **Dracula** theme.
 
-![goabase-tui Overview](screenshot.png)
+<p align="center">
+  <img src="screenshot.gif" alt="Goabase Terminal Suite Demo" width="85%" />
+</p>
 
 ### 🎛️ Line-up & Event Details View (`Enter`)
 
