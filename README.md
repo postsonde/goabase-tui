@@ -8,7 +8,6 @@ A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcom
 
 ### 🎛️ Line-up & Event Details View (`Enter`)
 
-![goabase-tui Line-up & Details](screenshot-lineup.png)
 
 ---
 
