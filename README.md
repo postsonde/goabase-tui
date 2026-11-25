@@ -1,16 +1,13 @@
-# ॐ goabase-tui
-
-[![PyPI version](https://shields.io)](https://pypi.org)
-[![Python versions](https://shields.io)](https://pypi.org)
-[![License: GPL v3](https://shields.io)](https://gnu.org)
+# 🌀 goabase-tui
 
 A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcoming Goa & Psytrance parties from the [Goabase](https://goabase.net) API — built with [Textual](https://textualize.io) and styled with the **Dracula** theme.
 
-![goabase-tui Overview](https://github.com/postsonde/goabase-tui/screenshot.png)
+<p align="center">
+  <img src="screenshot.gif" alt="Goabase Terminal Suite Demo" width="85%" />
+</p>
 
 ### 🎛️ Line-up & Event Details View (`Enter`)
 
-![goabase-tui Line-up & Details](https://github.com/postsonde/goabase-tui/screenshot-lineup.png)
 
 ---
 
@@ -46,7 +43,7 @@ A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcom
 
 ## 🚀 Installation & Usage
 
-Install globally via PyPI with [`pipx`](https://pypa.io) (recommended, requires Python 3.10+):
+Install globally with [`pipx`](https://pypa.io) (requires Python 3.10+):
 
 ```bash
 pipx install goabase-tui
@@ -68,11 +65,11 @@ pipx upgrade goabase-tui
 
 ## 🤝 Contributing
 
-Contributions, ideas, and bug reports are welcome! Feel free to open an issue or submit a pull request on the [issues page](https://github.com/postsonde/goabase-tui/issues).
+Contributions, ideas, and bug reports are welcome! Feel free to open an issue or submit a pull request on the [issues page](../../issues).
 
 ## 📝 License
 
-This project is [GNU GPLv3](https://github.com/postsonde/goabase-tui/license) licensed.
+This project is [GNU GPLv3](LICENSE) licensed.
 
 ---
 
