@@ -1,4 +1,4 @@
-# 🌀 goabase-tui
+# 🌀 **goabase-tui**
 
 A fast, lightweight terminal user interface (TUI) for browsing ongoing and upcoming Goa & Psytrance parties from the [Goabase](https://goabase.net) API — built with [Textual](https://textualize.io) and styled with the **Dracula** theme.
 
@@ -69,7 +69,7 @@ Contributions, ideas, and bug reports are welcome! Feel free to open an issue or
 
 ## 📝 License
 
-This project is [GNU GPLv3](LICENSE) licensed.
+**GNU General Public License v3.0** (GNU GPLv3) **🄯 All Lights returned** [postsonde](https://github.com/postsonde)
 
 ---
 
